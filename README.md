@@ -1,24 +1,24 @@
 
-# 📚 Book'insat
+# Book'insat
 
 **Supporting your dreams.**  
 A web application specifically designed for INSAT students, giving them access to all available DS, exam materials (for all years and fields), as well as a curated collection of scientific books.
 
 ---
 
-## 🚀 Features
+## Features
 
-### 🔐 Admin Panel
+### Admin Panel
 
 - Admin login (`admin@gmail.com`, password: `adminadmin`)
 - Dashboard access with revenue tracking
 - Create / delete categories
 - Create / delete books
 - View user list
-- Delete users (⚠️ *User addition is currently bugged*)
+- Delete users ( *User addition is currently bugged*)
 - View orders
 
-### 👤 Normal User
+### Normal User
 
 - View and edit profile (update email)
 - Search books by title or author
@@ -30,7 +30,7 @@ A web application specifically designed for INSAT students, giving them access t
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Backend:** PHP, Symfony
 - **Frontend:** HTML, CSS, JavaScript, Twig
@@ -39,7 +39,7 @@ A web application specifically designed for INSAT students, giving them access t
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 1. **Clone the repository**
    ```bash
@@ -72,9 +72,9 @@ A web application specifically designed for INSAT students, giving them access t
    symfony server:start
    ```
 
-## 👤 Authors
+## Authors
 
-Made with ❤️ by **INSAT students**  
+Made with love by **INSAT students**  
 GitHub: [Youssef Belabed](https://github.com/Oudess)
 GitHub: [Nour Mahmoud](https://github.com/NourMahmoud151515)
 GitHub: [Zakaria Lahrizi](https://github.com/zakaria-lahrizi)
@@ -82,13 +82,13 @@ GitHub: [Eya Belkhodja](https://github.com/eyabelkhodja)
 
 ---
 
-## 🤝 Contributions
+## Contributions
 
 Feel free to fork this repo, submit issues, or propose pull requests. Contributions are welcome!
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
