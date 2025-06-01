@@ -43,7 +43,7 @@ A web application specifically designed for INSAT students, giving them access t
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/bookinsat.git
+   git clone https://github.com/Oudess/Book-Insat
    cd bookinsat
    ```
 
@@ -72,19 +72,13 @@ A web application specifically designed for INSAT students, giving them access t
    symfony server:start
    ```
 
----
-
-## 📸 Demo (Optional)
-
-<!-- Insert screenshots or GIFs here if you have them -->
-<!-- You can also link to a live demo or deploy preview -->
-
----
-
-## 👤 Author
+## 👤 Authors
 
 Made with ❤️ by **INSAT students**  
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [Youssef Belabed](https://github.com/Oudess)
+GitHub: [Nour Mahmoud](https://github.com/NourMahmoud151515)
+GitHub: [Zakaria Lahrizi](https://github.com/zakaria-lahrizi)
+GitHub: [Eya Belkhodja](https://github.com/eyabelkhodja)
 
 ---
 
